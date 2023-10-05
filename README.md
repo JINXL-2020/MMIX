@@ -9,7 +9,7 @@ The game was designed with the intention of creating an experience in which "pas
 In the first half of the game, the character should collect positive emoji to accumulate energy. in the second half of the game, the character should avoid the negative emoji or it would lose energy when being hit by them. The more energy the player accumulates, the higher the score.
 
 ### Information
-
-Music game,  Manic shooter, Single-player, 2d
-
 Control character movement with the mouse
+
+### Genre
+Rhythm game,  Bullet Hell Game, Single-player, 2d
